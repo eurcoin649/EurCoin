@@ -1,0 +1,9 @@
+{
+  "name": "EuropaCoin",
+  "symbol": "EURC",
+  "address": "0x3C9F5630562d381F3A5a3361610e7896BC35eAee",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://yourgithubrepo.com/logo.png",
+  "priceUSD": "1.00"
+}
